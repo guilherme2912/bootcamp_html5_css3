@@ -178,3 +178,74 @@ Semântica
 
 <ol> Tem importancia
 <li>
+
+-------------------------------------------------------------------------
+
+CSS3
+
+seletores
+a, p, h1, h3 {
+	color: blue;
+	font-size: 14px;
+}
+Dentro das chaves são as declarações
+
+ID / CLASSE
+
+<header id="header" class="header"></header>
+
+dentro do css os ID e Classes são definidos por.
+.header = classe
+#header = ID
+
+ID só pode ser usado uma vez na pagina.
+
+<link rel="stylesheet" href="styles.css">
+
+box model tem 4 areas
+Margin > border > padding > content
+
+Margin espaçamento entre os elementos
+
+border largura e cor
+padding = borda e conteudo
+
+
+padding margin:
+padding: 10px(SUPERIOR INFERIOR) 5px(ESQUERDO DIREITO)
+padding 15px(TOP) 10px(DIREITA) 5px(INFERIOR) 0(ESQUERDO);
+
+background-color
+background-image
+backgroup-position
+
+
+border: 3px(pixels, centimetro, milimetro) solid(Estilo = solid - dotted - dashed) blue(cor).
+
+border-top-width
+border-top-color
+
+border-radius: 50% arredonda as bordas.
+
+________________________________________________________
+alteração de fontes.
+font-family
+
+font-family: Verdana;
+
+font-famly: Verdana, Arial: se a primeira não é achada a segunda entra em ação.
+
+font-size: 10px;
+
+font-style: normal = padrão
+italic - italico; verificar se  fonte tem a inclinação
+
+font-weight: Pesos/densidade.
+font-weight: bold = negrito.
+
+text-transform: uppercase = tudo em maiuscila / lowercase = tudo minuscula / capitalize = somente a primeira letra em maiuscula
+
+text-decoration: underline = linha abaixo/ overline = linha acima /line-through = linha no centro do texto.
+
+
+
