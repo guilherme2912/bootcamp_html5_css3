@@ -162,3 +162,19 @@ Semântica
 <aside>
 <footer>
 <h1>-<h6>
+
+<p>Conteúdo do artigo.</p> = Paragrafo 
+<a>Link(ancora)</a>
+<a href="linkedin.com/in/vilaboim">LinkedIn</a>
+<a href="mail:guilherme.soares@animati.com.br">E-mail</a>
+
+<a target="_blank">Link</a> = abrir esse link em uma nova aba.
+
+<img>
+<img src="img/avatar.jpg">
+<img alt="Foto de Guilherme Soares"> = utilizado para acessibilidade
+
+<ul> A ordem da lista não é importante
+
+<ol> Tem importancia
+<li>
